@@ -8,6 +8,7 @@ To build my own quadcopter because it will be fun to make and fly. It will serve
 
 ## BOM
 ### Build
+
 Category | Part
 ------------- | -------------
 Frame | <a href="https://goo.gl/aYbrOu">LS-210</a>
