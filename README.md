@@ -24,6 +24,7 @@ Props | <a href="https://goo.gl/aBQx3v">Dalprop Cyclone T5046C 5x4.6</a>
 ### Accessories
 
 Category | Part
+------------- | -------------
 FPV Goggles | <a href="https://goo.gl/3sVHKY">Eachine VR-007</a>
 Battery | <a href="https://goo.gl/b7iOPu">Infinity 4S 14.8V 1300mAh 70C</a>
 Receiver | <a href="https://goo.gl/u8BMjC">Redcon 2.4G DSM2 DSMX Satellite Receiver</a>
