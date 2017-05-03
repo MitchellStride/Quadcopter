@@ -11,7 +11,7 @@ To build my own quadcopter because it will be fun to make and fly. It will serve
 
 Part | Name | Link
 ------------- | -------------
-Frame | LS-210 | https://goo.gl/aYbrOu
+Frame |  <a href="https://goo.gl/aYbrOu">LS-210</a>
 Motors |
 ESC |
 FC |
