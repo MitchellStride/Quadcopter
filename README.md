@@ -7,7 +7,7 @@ To build my own quadcopter because it will be fun to make and fly. It will serve
 
 
 ## BOM
-### Build
+#### Build
 
 Category | Part
 ------------- | -------------
@@ -21,11 +21,11 @@ VTX | <a href="https://goo.gl/18OOai">TS5823S Micro</a>
 Antenna | <a href="https://goo.gl/7077TR">DYS FPV 5.8G 4dBi</a>
 Props | <a href="https://goo.gl/aBQx3v">Dalprop Cyclone T5046C 5x4.6</a>
 
-### Accessories
+#### Accessories
 
 Category | Part
 ------------- | -------------
-FPV Goggles | <a href="https://goo.gl/3sVHKY">Eachine VR-007</a>
+VRX | <a href="https://goo.gl/d5XNC0">Eachine RC832</a>
 Battery | <a href="https://goo.gl/b7iOPu">Infinity 4S 14.8V 1300mAh 70C</a>
 Transmitter | Spektrum DX4 (Pre-Owned)
 Receiver | <a href="https://goo.gl/u8BMjC">Redcon 2.4G DSM2 DSMX Satellite Receiver</a>
@@ -33,10 +33,13 @@ Battery Strap | <a href="https://goo.gl/LWe5i8">AKKU Tie Down Strap</a>
 Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 
 
-
-
 ## Plan
 Paper Schematic
+
+## Build
+
+## FPV Goggles
+vr 007 but building instead.
 
 ## First Flight
 Video of test flight.
