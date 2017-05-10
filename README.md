@@ -45,4 +45,4 @@ vr 007 but building instead.
 Video of test flight.
 
 
-<a href="https://mitchellstride.com">HOME</a>
+<a href="/">HOME</a>
