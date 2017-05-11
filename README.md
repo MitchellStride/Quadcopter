@@ -1,4 +1,4 @@
-# Project Page still Under Construction
+# Project Page Under Construction
 
 ## Purpose
 To build my own quadcopter because it will be fun to make and fly. It will serve
