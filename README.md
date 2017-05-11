@@ -43,7 +43,7 @@ Build pictures and small how to
 
 
 ## FPV Goggles
-Build pictures and small how to
+Build pictures and small how to.
 Cardboard mockup of goggles and then 3dprint final revision.
 
 ## First Flight
