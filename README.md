@@ -39,13 +39,11 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 picture of all parts layed out
 
 ## Build
-Build pictures
-small how to
+Build pictures and small how to
 
 
 ## FPV Goggles
-Build pictures
-small how to
+Build pictures and small how to
 
 ## First Flight
 Video of test flight.
