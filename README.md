@@ -1,3 +1,4 @@
+#Project Page still Under Construction
 
 ## Purpose
 To build my own quadcopter because it will be fun to make and fly. It will serve
@@ -34,15 +35,21 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 
 
 ## Plan
-Paper Schematic
+<img src="{{ "/pictures/blockcopter.png?raw=true" | prepend: site.baseurl }}" />
+picture of all parts layed out
 
 ## Build
+Build pictures
+small how to
+
 
 ## FPV Goggles
-vr 007 but building instead.
+Build pictures
+small how to
 
 ## First Flight
 Video of test flight.
 
+More footage will come once I record it.
 
 <a href="http://mitchellstride.com/">HOME</a>
