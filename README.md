@@ -5,7 +5,15 @@ To build my own quadcopter because it will be fun to make and fly. It will serve
  as a low cost entry to the hobby and if anything goes wrong or it breaks,
  I will be able to fix it because I made it.
 
-
+## Acronyms
+<ul>
+  <li>ESC - Electronic Speed Control</li>
+  <li>FC - Flight Controller</li>
+  <li>PDB - Power Distribution Board</li>
+  <li>FPV - First Person View</li>
+  <li>VTX - Video Transmitter</li>
+  <li>RX - Receiver</li>
+</ul>
 
 ## BOM
 #### Build
@@ -20,7 +28,7 @@ PDB | <a href="https://goo.gl/FTEg89">Matek Systems PDB</a>
 FPV Cam | <a href="https://goo.gl/6sQSpP">Eachine 1000TVL 110 Degree 2.8mm Mini</a>
 VTX | <a href="https://goo.gl/18OOai">TS5823S Micro</a>
 Antenna | <a href="https://goo.gl/7077TR">DYS FPV 5.8G 4dBi</a>
-Props | <a href="https://goo.gl/aBQx3v">Dalprop Cyclone T5046C 5x4.6</a>
+Propellors | <a href="https://goo.gl/aBQx3v">Dalprop Cyclone T5046C 5x4.6</a>
 
 #### Accessories
 
