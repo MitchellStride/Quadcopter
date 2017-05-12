@@ -44,7 +44,7 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 
 ## Plan
 <img src="{{ "/pictures/blockcopter.png?raw=true" | prepend: site.baseurl }}" />
-picture of all parts layed out
+<br>picture of all parts layed out
 
 ## Build
 Build pictures and small how to
