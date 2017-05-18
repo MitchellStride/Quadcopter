@@ -67,6 +67,7 @@ about the visual lag for the video from the connection between the analog receiv
 and my digital phone screen. I also already had a few parts so it was feasible.
 <br>
 <img src="{{ "/pictures/blockgoggles.png?raw=true" | prepend: site.baseurl }}" />
+<br>
 I found a webpage where someone had a similar setup (source below) and bought a DVR
 with a utv007 chip that was compatible with the easycap app on the google playstore.
 <br>
