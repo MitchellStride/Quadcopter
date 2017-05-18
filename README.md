@@ -45,8 +45,14 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 
 
 ## Plan
+<br>I have done some research on popular parts for cheap first quadcopter builds
+and decided on these parts.
 <img src="{{ "/pictures/blockcopter.png?raw=true" | prepend: site.baseurl }}" />
-<br>picture of all parts layed out
+<br>This block diagram is how I am going to put together the quadcopter. The three
+main PCBs in the middle are called the "stack". Mine consists of a Racerstar 4in1 ESC,
+Matek Power Board, and a F3 Flight controller. They will be fixated to the frame with
+standoffs. The receiver will be under the Stack. The camera will be mounted to the front
+with a wire leading to the VTX in the back.
 
 ## Build
 <img src="{{ "/pictures/parts1.jpg?raw=true" | prepend: site.baseurl }}" />
@@ -54,14 +60,15 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 
 
 ## FPV Goggles Prototype
-<img src="{{ "/pictures/goggleparts.jpg?raw=true" | prepend: site.baseurl }}" />
+<img src="{{ "/pictures/goggleparts.jpeg?raw=true" | prepend: site.baseurl }}" />
 The plan is to use an old google cardboard headset to create a prototype headset,
 and then 3dprint a final revision. I decided to make a prototype because I am concerned
 about the visual lag for the video from the connection between the analog receiver
 and my digital phone screen. I also already had a few parts so it was feasible.
 <br>
 <img src="{{ "/pictures/blockgoggles.png?raw=true" | prepend: site.baseurl }}" />
-
+I found a webpage where someone had a similar setup (source below) and bought a DVR
+with a utv007 chip that was compatible with the easycap app on the google playstore.
 <br>
 <img src="{{ "/pictures/gogglepics.jpg?raw=true" | prepend: site.baseurl }}" />
 
