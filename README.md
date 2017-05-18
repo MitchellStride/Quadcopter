@@ -49,7 +49,7 @@ I have done some research on popular parts for cheap first quadcopter builds
 and decided on these parts.
 <br>
 <img src="{{ "/pictures/blockcopter.png?raw=true" | prepend: site.baseurl }}" />
-<br>This block diagram is how I am going to put together the quadcopter. The three
+<br>This block diagram is how I am going to solder together the quadcopter. The three
 main PCBs in the middle are called the "stack". Mine consists of a Racerstar 4in1 ESC,
 Matek Power Board, and a F3 Flight controller. They will be fixated to the frame with
 standoffs. The receiver will be under the Stack. The camera will be mounted to the front
