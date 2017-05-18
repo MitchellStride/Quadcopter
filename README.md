@@ -60,7 +60,7 @@ with a wire leading to the VTX in the back.
 
 
 ## FPV Goggles Prototype
-<img src="{{ "/pictures/goggleparts.jpeg?raw=true" | prepend: site.baseurl }}" />
+<img src="{{ "/pictures/goggleparts.jpg?raw=true" | prepend: site.baseurl }}" />
 The plan is to use an old google cardboard headset to create a prototype headset,
 and then 3dprint a final revision. I decided to make a prototype because I am concerned
 about the visual lag for the video from the connection between the analog receiver
