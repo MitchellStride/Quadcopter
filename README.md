@@ -59,7 +59,7 @@ The plan is to use an old google cardboard headset to create a prototype headset
 and then 3dprint a final revision. I decided to make a prototype because I am concerned
 about the visual lag for the video from the connection between the analog receiver
 and my digital phone screen. I also already had a few parts so it was feasible.
-<img src="{{ "/pictures/blockgoggle.png?raw=true" | prepend: site.baseurl }}" />
+<img src="{{ "/pictures/blockgoggles.png?raw=true" | prepend: site.baseurl }}" />
 
 <img src="{{ "/pictures/gogglepics.jpg?raw=true" | prepend: site.baseurl }}" />
 
