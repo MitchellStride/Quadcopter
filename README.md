@@ -76,7 +76,7 @@ with a utv007 chip that was compatible with the easycap app on the google playst
 <br>
 <img src="{{ "/pictures/gogglepics.jpg?raw=true" | prepend: site.baseurl }}" />
 <br>
-From testing one thing I will have to implement in the next revision is extending the length
+From testing, I realized one thing I will have to implement in the next revision is extending the length
 of the headset screen from my face.
 <br><a href="http://copterwars.com/blog/?p=64">Idea Source for Headset</a>
 
