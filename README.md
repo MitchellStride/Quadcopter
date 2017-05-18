@@ -4,6 +4,8 @@
 To build my own quadcopter because it will be fun to make and fly. It will serve
  as a low cost entry to the hobby and if anything goes wrong or it breaks,
  I will be able to fix it because I made it.
+ <br>I am also hoping to add future functionality such as a mount for a recording
+ camera or maybe a small claw.
 
 ## Acronyms
 <ul>
@@ -47,12 +49,22 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 <br>picture of all parts layed out
 
 ## Build
-Build pictures and small how to
+<img src="{{ "/pictures/parts1.jpg?raw=true" | prepend: site.baseurl }}" />
+<br>Waiting on Frame to finish the build and complete project page.
 
 
-## FPV Goggles
-Build pictures and small how to.
-Cardboard mockup of goggles and then 3dprint final revision.
+## FPV Goggles Prototype
+<img src="{{ "/pictures/goggleparts.jpg?raw=true" | prepend: site.baseurl }}" />
+The plan is to use an old google cardboard headset to create a prototype headset,
+and then 3dprint a final revision. I decided to make a prototype because I am concerned
+about the visual lag for the video from the connection between the analog receiver
+and my digital phone screen. I also already had a few parts so it was feasible.
+<img src="{{ "/pictures/blockgoggle.png?raw=true" | prepend: site.baseurl }}" />
+
+<img src="{{ "/pictures/gogglepics.jpg?raw=true" | prepend: site.baseurl }}" />
+
+
+<a href="http://copterwars.com/blog/?p=64">Idea Source for Headset</a>
 
 ## First Flight
 Video of test flight.
