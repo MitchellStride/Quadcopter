@@ -45,7 +45,7 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 
 
 ## Plan
-<br>I have done some research on popular parts for cheap first quadcopter builds
+I have done some research on popular parts for cheap first quadcopter builds
 and decided on these parts.
 <br>
 <img src="{{ "/pictures/blockcopter.png?raw=true" | prepend: site.baseurl }}" />
