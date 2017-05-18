@@ -47,6 +47,7 @@ Antenna Extension | <a href="https://goo.gl/sd0MD9">60mm Extender</a>
 ## Plan
 <br>I have done some research on popular parts for cheap first quadcopter builds
 and decided on these parts.
+<br>
 <img src="{{ "/pictures/blockcopter.png?raw=true" | prepend: site.baseurl }}" />
 <br>This block diagram is how I am going to put together the quadcopter. The three
 main PCBs in the middle are called the "stack". Mine consists of a Racerstar 4in1 ESC,
@@ -60,7 +61,9 @@ with a wire leading to the VTX in the back.
 
 
 ## FPV Goggles Prototype
+<br>
 <img src="{{ "/pictures/goggleparts.jpg?raw=true" | prepend: site.baseurl }}" />
+<br>
 The plan is to use an old google cardboard headset to create a prototype headset,
 and then 3dprint a final revision. I decided to make a prototype because I am concerned
 about the visual lag for the video from the connection between the analog receiver
@@ -72,6 +75,7 @@ I found a webpage where someone had a similar setup (source below) and bought a 
 with a utv007 chip that was compatible with the easycap app on the google playstore.
 <br>
 <img src="{{ "/pictures/gogglepics.jpg?raw=true" | prepend: site.baseurl }}" />
+<br>
 
 
 <a href="http://copterwars.com/blog/?p=64">Idea Source for Headset</a>
