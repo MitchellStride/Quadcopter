@@ -64,5 +64,5 @@ Video of the first test flight.
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/0Ra9LfqjwCk?rel=0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 <br>
 More footage will come once I record it.
-<a href="http://mitchellstride.com/Quadcopter">BACK</a>  
+<br><a href="http://mitchellstride.com/Quadcopter">BACK</a>  
 <br><a href="http://mitchellstride.com/">HOME</a>
