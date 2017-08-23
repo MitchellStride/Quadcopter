@@ -65,5 +65,6 @@ Video of the first test flight.
 <br>
 More footage will come once I record it.
 <p>
-<a href="http://mitchellstride.com/Quadcopter">BACK</a>                    <a href="http://mitchellstride.com/">HOME</a>
+<a href="http://mitchellstride.com/Quadcopter">BACK</a>                    
+<a href="http://mitchellstride.com/">HOME</a>
 </p>
