@@ -17,13 +17,14 @@ with a utv007 chip that was compatible with the easycap app on the google playst
 <br>
 Here is the finsihed prototype with everthing layed out and connected the way I
 thought was best. From testing, I realized one thing I will have to implement in the next revision is extending the length of the headset screen from my face. The other main
-features will just to add holders for all the other gear and make it comfortable.
+features will be just adding holders for all the other gear and make it comfortable.
 <br><a href="http://copterwars.com/blog/?p=64">Idea Source for Headset</a>
 
 ## 3D-Modeling
 
 I am using SOLIDWORKS to model the headset. Since I upgraded the build plate on my
-monoprice select mini v2 printer to 200x200mm I can make it.
+Monoprice Select Mini v2 printer to 200x200mm I can print the whole thing in one piece.
+
 
 
 
