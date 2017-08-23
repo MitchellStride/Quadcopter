@@ -1,9 +1,7 @@
-# Project Page Under Construction
 
 ## Purpose
 To build my own quadcopter because it will be fun to make and fly. It will serve
- as a low cost entry to the hobby and if anything goes wrong or it breaks,
- I will be able to fix it because I made it.
+ as a low cost entry to the hobby and when I crash it, I will be able to fix it because I made it.
  <br>I am also hoping to add future functionality such as a mount for a recording
  camera or maybe a small claw.
 
@@ -60,28 +58,9 @@ with a wire leading to the VTX in the back.
 <br>Waiting on Frame to finish the build and complete project page.
 
 
-## FPV Goggles Prototype
-<br>
-<img src="{{ "/pictures/goggleparts.jpg?raw=true" | prepend: site.baseurl }}" />
-<br>
-The plan is to use an old google cardboard headset to create a prototype headset,
-and then 3dprint a final revision. I decided to make a prototype because I am concerned
-about the visual lag for the video from the connection between the analog receiver
-and my digital phone screen. I also already had a few parts so it was feasible.
-<br>
-<img src="{{ "/pictures/blockgoggles.png?raw=true" | prepend: site.baseurl }}" />
-<br>
-I found a webpage where someone had a similar setup (source below) and bought a DVR
-with a utv007 chip that was compatible with the easycap app on the google playstore.
-<br>
-<img src="{{ "/pictures/gogglepics.jpg?raw=true" | prepend: site.baseurl }}" />
-<br>
-From testing, I realized one thing I will have to implement in the next revision is extending the length
-of the headset screen from my face.
-<br><a href="http://copterwars.com/blog/?p=64">Idea Source for Headset</a>
-
 ## First Flight
-Video of test flight.
+Video of the first test flight.
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/0Ra9LfqjwCk?rel=0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 More footage will come once I record it.
 
