@@ -2,4 +2,6 @@
 
 ## Gimbal
 
-<a href="http://mitchellstride.com/">HOME</a>
+
+<br><a href="http://mitchellstride.com/Quadcopter">BACK</a>  
+<br><a href="http://mitchellstride.com/">HOME</a>
