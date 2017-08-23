@@ -1,6 +1,6 @@
-## Pages
+# Pages
 <br>
-<img src="{{ "/pictures/Quad01.jpeg?raw=true" | prepend: site.baseurl }}" />
+<img src="{{ "/pictures/Quad01.jpeg?raw=true" | prepend: site.baseurl }}"/>
 <br>
 The following sub pages are meant to just document building the drone as opposed to
 a written step by step guide. It does have some nice resources like diagrams and 3D
