@@ -2,9 +2,11 @@
 # 3D-Printed Mods
   I bought the LS210 frame for my quadcopter and I made some upgrades for
 this frame. If anyone wants the models to print them for themselves
-they are available for download on my github. I also posted the .SLDPRT if someone
+they are available for download on my <a href="https://github.com/MitchellStride/Quadcopter/tree/master/3Dprintedmods/Models">github</a>. I also posted the .SLDPRT if someone
 wanted to improve them.
 <br>  The Headset and Gimbal models can also both be found in the same folders.
+
+
 
 ## GOPRO Top Mount
 Used my fathers gopro to record some better quality footage when flying quickly and racing.
