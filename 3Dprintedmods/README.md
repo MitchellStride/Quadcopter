@@ -4,8 +4,9 @@
 this frame. If anyone wants the models to print them for themselves
 they are available for download on my <a href="https://github.com/MitchellStride/Quadcopter/tree/master/3Dprintedmods/Models">github</a>. I also posted the .SLDPRT if someone
 wanted to improve them.
-<br>  The Headset and Gimbal models can also both be found in the same folders.
-
+<p>
+ The Headset and Gimbal models can also both be found in the same folders.
+</p>
 
 
 ## GOPRO Top Mount
