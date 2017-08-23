@@ -20,7 +20,7 @@ thought was best. From testing, I realized one thing I will have to implement in
 features will just to add holders for all the other gear and make it comfortable.
 <br><a href="http://copterwars.com/blog/?p=64">Idea Source for Headset</a>
 
-## 3D-Modelling
+## 3D-Modeling
 
 I am using SOLIDWORKS to model the headset. Since I upgraded the build plate on my
 monoprice select mini v2 printer to 200x200mm I can make it.
