@@ -15,18 +15,19 @@ with a utv007 chip that was compatible with the easycap app on the google playst
 <br>
 <img src="{{ "/pictures/gogglepics.jpg?raw=true" | prepend: site.baseurl }}" />
 <br>
-Here is the finsihed prototype with everthing layed out and connected the way I
+Here is the finished prototype with everything laid out and connected the way I
 thought was best. From testing, I realized one thing I will have to implement in the next revision is extending the length of the headset screen from my face. The other main
-features will be just adding holders for all the other gear and make it comfortable.
+features will be just adding holders for all the other gear and making it comfortable.
 <br><a href="http://copterwars.com/blog/?p=64">Idea Source for Headset</a>
 
 ## 3D-Modeling
 
 I am using SOLIDWORKS to model the headset. Since I upgraded the build plate on my
 Monoprice Select Mini v2 printer to 200x200mm I can print the whole thing in one piece.
+I should
 
-
-
+<img src="{{ "/pictures/models/headset1.png?raw=true" | prepend: site.baseurl }}" />
+<img src="{{ "/pictures/models/headset2.png?raw=true" | prepend: site.baseurl }}" />
 
 <br><a href="http://mitchellstride.com/Quadcopter">BACK</a>  
 <br><a href="http://mitchellstride.com/">HOME</a>

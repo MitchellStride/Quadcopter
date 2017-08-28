@@ -6,7 +6,7 @@ models for other first time builders like myself.
 <ul>
   <li><a href="http://mitchellstride.com/Quadcopter/build/">Design plan and Build</a></li>
   <li><a href="http://mitchellstride.com/Quadcopter/fpvheadset/">Prototyping a FPV Headset</a></li>
-  <li><a href="http://mitchellstride.com/Quadcopter/gimbal/">Creating a Gimbal</a></li>
+  <li><a href="http://mitchellstride.com/Quadcopter/gimbal/">Creating a Gimbal [Not Started]</a></li>
   <li><a href="http://mitchellstride.com/Quadcopter/3Dprintedmods/">3D Printed LS210 Mods</a></li>
 </ul>
 
