@@ -56,8 +56,13 @@ with a wire leading to the VTX in the back.
 
 ## Build
 <img src="{{ "/pictures/parts1.jpg?raw=true" | prepend: site.baseurl }}" />
-<br>Waiting on Frame to finish the build and complete project page.
-
+<br>Now that I have recieved all the parts in the mail I soldered all the connections
+as per the block diagram I made. I just planned out the wiring routing slowly as I went
+and everything worked out perfectly.
+<p>Once assembled, the software of the quadcopter is the last step. Plugging the Mini
+usb port on the FC to my computer, it can be configured with BetaFlight.</p>
+<img src="{{ "/pictures/Quad02.jpeg?raw=true" | prepend: site.baseurl }}" />
+<img src="{{ "/pictures/fullload.jpeg?raw=true" | prepend: site.baseurl }}" />
 
 ## First Flight
 Video of the first test flight.
