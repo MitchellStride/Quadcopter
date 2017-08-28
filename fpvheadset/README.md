@@ -27,7 +27,7 @@ permanent solution. I am using SOLIDWORKS to model the headset. Since I upgraded
 the build plate on my Monoprice Select Mini v2 printer to 200x200mm I can print the whole thing in one piece. Once printed it will be as simple as screwing in the components and adding
 the strap.
 
-<img src="{{ "/pictures/models/headset1.png?raw=true" | prepend: site.baseurl }}" />
+<img src="{{ "/pictures/models/headsetcombo.png?raw=true" | prepend: site.baseurl }}" />
 
 <br><a href="http://mitchellstride.com/Quadcopter">BACK</a>  
 <br><a href="http://mitchellstride.com/">HOME</a>
