@@ -28,7 +28,6 @@ the build plate on my Monoprice Select Mini v2 printer to 200x200mm I can print 
 the strap.
 
 <img src="{{ "/pictures/models/headset1.png?raw=true" | prepend: site.baseurl }}" />
-<img src="{{ "/pictures/models/headset2.png?raw=true" | prepend: site.baseurl }}" />
 
 <br><a href="http://mitchellstride.com/Quadcopter">BACK</a>  
 <br><a href="http://mitchellstride.com/">HOME</a>
